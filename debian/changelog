@@ -1,0 +1,5 @@
+corecluster-algorithm-node-median (17.11.01) stable; urgency=low
+
+  * Initial package structure
+
+ -- Maciej Nabozny <maciej.nabozny@cloudover.io> 02 Nov 2017 10:00:00 +0200
